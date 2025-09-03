@@ -8,3 +8,5 @@ I'm referring to anti-piracy, anti-tamper, and digital rights management softwar
 
 
 this is for educational purpose only (of course)
+
+now taking a DRM server and client based approach with a offline first fallback
